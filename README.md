@@ -8,7 +8,7 @@
 Avocado_Prices
 
 ## Metode
-Metode 1 - Klasifikasi KNN
+Metode 2 - Klasifikasi KNN
 
 ## Tautan Aplikasi
 (Belum ada)
